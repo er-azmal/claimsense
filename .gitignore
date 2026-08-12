@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+*.pyc
+temp_*.jpg
+services/ml-service/models/model.keras
+services/ml-service/models/CarPartINExmodel.h5
